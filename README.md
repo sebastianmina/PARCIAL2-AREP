@@ -5,19 +5,19 @@
 >Implemente los servicios para responder al método de solicitud HTTP GET. Deben usar el nombre de la función especificado en la lista y el parámetro debe ser pasado en la variable de query con nombre "value".
 
 ## Prueba en Local
-![](img/local)
+![](img/local.png)
 
 ## Prueba puerto Docker
-![](img/localdocker)
+![](img/localdocker.png)
 
 ## Prueba AWS Máquina
-![](img/aws0)
+![](img/aws0.png)
 
 ## Prueba AWS Función SQRT
-![](img/aws1)
+![](img/aws1.png)
 
 ## Prueba AWS Función ATAN
-![](img/aws2)
+![](img/aws2.png)
 
 ## Video AWS Prueba funciones
-![](img/video)
+![](img/video.mov)
