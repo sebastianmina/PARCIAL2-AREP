@@ -22,3 +22,7 @@
 ## Video AWS Prueba funciones
 
 https://youtu.be/ZzFJ2iXgfy4
+
+## Clonarlo
+
+``` git clone https://github.com/sebastianmina/PARCIAL2-AREP
