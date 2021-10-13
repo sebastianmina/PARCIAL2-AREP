@@ -39,7 +39,7 @@ mvn exec:java -Dexec.mainClass="edu.eci.arep.parcial2.SparkWebMath"
 ```
 ## Links de AWS
 
-http://ec2-34-238-80-15.compute-1.amazonaws.com:42000/atan?value=4
-http://ec2-34-238-80-15.compute-1.amazonaws.com:42000/str?value=4
+1. http://ec2-34-238-80-15.compute-1.amazonaws.com:42000/atan?value=4
+2. http://ec2-34-238-80-15.compute-1.amazonaws.com:42000/str?value=4
 
 En value se puede poner cualquier valor numérico.
