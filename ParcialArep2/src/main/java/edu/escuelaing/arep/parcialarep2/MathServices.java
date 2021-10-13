@@ -7,7 +7,7 @@ package edu.escuelaing.arep.parcialarep2;
 
 /**
  *
- * @author mac
+ * @author Sebastián Mina
  */
 public class MathServices {
     
