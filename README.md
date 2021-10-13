@@ -20,4 +20,5 @@
 ![](img/aws2.png)
 
 ## Video AWS Prueba funciones
-![](img/video.mov)
+
+https://youtu.be/ZzFJ2iXgfy4
